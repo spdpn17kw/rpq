@@ -27,4 +27,18 @@
       <Filter>Pliki źródłowe</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="in50.txt">
+      <Filter>Pliki źródłowe</Filter>
+    </Text>
+    <Text Include="in100.txt">
+      <Filter>Pliki źródłowe</Filter>
+    </Text>
+    <Text Include="in200.txt">
+      <Filter>Pliki źródłowe</Filter>
+    </Text>
+    <Text Include="data.txt">
+      <Filter>Pliki źródłowe</Filter>
+    </Text>
+  </ItemGroup>
 </Project>

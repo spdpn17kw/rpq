@@ -162,6 +162,12 @@
     </ClCompile>
     <ClCompile Include="rpq.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="data.txt" />
+    <Text Include="in100.txt" />
+    <Text Include="in200.txt" />
+    <Text Include="in50.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
